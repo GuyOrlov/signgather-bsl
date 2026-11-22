@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SignGather BSL">
+  <rect width="64" height="64" rx="17" fill="#153f44"/>
+  <path d="M9 36c8-13 16-13 23 0s15 13 23 0" fill="none" stroke="#f6a48d" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="18" cy="18" r="5" fill="#d3e9df"/>
+  <circle cx="47" cy="48" r="5" fill="#d3e9df"/>
+</svg>
